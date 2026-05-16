@@ -10,6 +10,7 @@ DSA Preparation
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/keerthana05-ui/DSA-Prep-2026/tree/master/0151-reverse-words-in-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/keerthana05-ui/DSA-Prep-2026/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Array
 |  |
@@ -20,4 +21,8 @@ DSA Preparation
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/keerthana05-ui/DSA-Prep-2026/tree/master/0605-can-place-flowers) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/keerthana05-ui/DSA-Prep-2026/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
